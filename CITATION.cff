@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+authors:
+- family-names: "Dömling"
+  given-names: "Ferdinand"
+  orcid: "https://orcid.org/0000-0001-5111-6511"
+- family-names: "Paysan"
+  given-names: "Florian"
+  orcid: "https://orcid.org/0009-0007-4728-7124"
+- family-names: "Breitbarth"
+  given-names: "Eric"
+title: "Numerical Simulations of Stress Intensity Factors and Fatigue Life in L-Shaped Sheet Profiles"
+version: 1.0.0
+doi:
+date-released:
+url: "https://github.com/dlr-wf/ANSYS-SMART-angled-sheet-sections"
