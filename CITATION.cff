@@ -11,6 +11,6 @@ authors:
   given-names: "Eric"
 title: "Numerical Simulations of Stress Intensity Factors and Fatigue Life in L-Shaped Sheet Profiles"
 version: 1.0.0
-doi:
-date-released:
+doi: 10.5281/zenodo.15862753
+date-released: 11.07.2025
 url: "https://github.com/dlr-wf/ANSYS-SMART-angled-sheet-sections"
