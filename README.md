@@ -1,4 +1,5 @@
 # Numerical Simulations of Stress Intensity Factors and Fatigue Life in L-Shaped Sheet Profiles
+[![DOI](https://zenodo.org/badge/1017940045.svg)](https://doi.org/10.5281/zenodo.15862753)
 
 This repository provides a collection of examples demonstrating the use of **ANSYS**s proprietary Crack Growth Algorithm **SMART** (Separating, Morphing, and Adaptive Remeshing Technology) for 3D Finite Element Method (FEM) simulations. 
 The code makes use of the **PyMAPDL** library to interact with **ANSYS Mechanical APDL** in a pythonic way.
